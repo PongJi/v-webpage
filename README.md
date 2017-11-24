@@ -1,6 +1,6 @@
 # v-webpage
 
-> A Vue.js project
+> A Vue.js project  https://pongji.github.io/v-webpage/view/
 
 技术桟：vuejs2.x + vue-router + vue-resource + es6
 
