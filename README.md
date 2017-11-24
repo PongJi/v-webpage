@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-使用vuejs2.x + vue-router + vue-resource + es6 实现的一个小demo
+使用vuejs2.x + vue-router + vue-resource + es6 实现的一个小demo   https://pongji.github.io/v-webpage/view/
 
 ## Build Setup
 
