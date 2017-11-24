@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-使用vuejs2.x + vue-router + vue-resource + es6 实现的一个小demo
+技术桟：vuejs2.x + vue-router + vue-resource + es6
 
 请download到本地运行浏览详细页面
 
