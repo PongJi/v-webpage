@@ -4,7 +4,7 @@
 
 使用vuejs2.x + vue-router + vue-resource + es6 实现的一个小demo
 
-请clone到本地运行浏览详细页面
+请download到本地运行浏览详细页面
 
 ## Build Setup
 
